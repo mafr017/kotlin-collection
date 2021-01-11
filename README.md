@@ -4,5 +4,6 @@
 2. Set
 3. Pair
 4. Map
+5. Collection
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
