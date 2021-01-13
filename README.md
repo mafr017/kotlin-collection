@@ -9,5 +9,6 @@
 7. Iterator
 8. Konversi Collection
 9. Collection Operation
+10. Mapping
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
