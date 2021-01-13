@@ -8,5 +8,6 @@
 6. Iterable
 7. Iterator
 8. Konversi Collection
+9. Collection Operation
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
