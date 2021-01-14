@@ -11,5 +11,6 @@
 9. Collection Operation
 10. Mapping
 11. Zipping
+12. Association
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
