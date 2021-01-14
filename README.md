@@ -13,5 +13,6 @@
 11. Zipping
 12. Association
 13. Flattening
+14. String Representation
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
