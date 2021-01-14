@@ -12,5 +12,6 @@
 10. Mapping
 11. Zipping
 12. Association
+13. Flattening
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
