@@ -14,5 +14,6 @@
 12. Association
 13. Flattening
 14. String Representation
+15. Filtering
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
