@@ -31,4 +31,7 @@ fun main() {
     println(string4)
     val string5 = builder3.toString()
     println(string5)
+
+    val numbers: List<Int> = (1..12).toList()
+    println(numbers.joinToString())
 }
