@@ -20,5 +20,6 @@
 18. Plus & Minus Operators
 19. Grouping
 20. Slicing
+21. Take & Drop Operators
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
