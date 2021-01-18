@@ -16,5 +16,6 @@
 14. String Representation
 15. Filtering
 16. Partitioning
+17. Testing
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
