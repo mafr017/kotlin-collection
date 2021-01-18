@@ -15,5 +15,6 @@
 13. Flattening
 14. String Representation
 15. Filtering
+16. Partitioning
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
