@@ -18,5 +18,6 @@
 16. Partitioning
 17. Testing
 18. Plus & Minus Operators
+19. Grouping
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
