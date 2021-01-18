@@ -17,5 +17,6 @@
 15. Filtering
 16. Partitioning
 17. Testing
+18. Plus & Minus Operators
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
