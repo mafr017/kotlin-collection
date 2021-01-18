@@ -19,5 +19,6 @@
 17. Testing
 18. Plus & Minus Operators
 19. Grouping
+20. Slicing
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
