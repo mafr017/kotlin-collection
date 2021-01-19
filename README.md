@@ -21,5 +21,6 @@
 19. Grouping
 20. Slicing
 21. Take & Drop Operators
+22. Chunked Operator
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
