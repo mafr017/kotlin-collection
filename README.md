@@ -23,5 +23,6 @@
 21. Take & Drop Operators
 22. Chunked Operator
 23. Windowd Operator
+24. Retrieve by Position
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
