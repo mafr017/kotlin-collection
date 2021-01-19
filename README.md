@@ -24,5 +24,6 @@
 22. Chunked Operator
 23. Windowd Operator
 24. Retrieve by Position
+25. Retrieve by Condition
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
