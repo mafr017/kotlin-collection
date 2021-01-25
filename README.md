@@ -33,5 +33,6 @@
 31. Random Ordering
 32. Aggregate
 33. Fold & Reduce
+34. Grouping Interface
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
