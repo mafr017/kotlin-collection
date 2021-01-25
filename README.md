@@ -28,5 +28,6 @@
 26. Retrieve by Random
 27. Checking Existence
 28. Ordering
+29. Custom Ordering
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
