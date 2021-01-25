@@ -36,5 +36,6 @@
 34. Grouping Interface
 35. List Specific Operation
 36. Set Specific Operation
+36. Map Specific Operation
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
