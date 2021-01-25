@@ -31,5 +31,6 @@
 29. Custom Ordering
 30. Reverse Ordering
 31. Random Ordering
+32. Aggregate
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
