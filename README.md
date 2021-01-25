@@ -35,5 +35,6 @@
 33. Fold & Reduce
 34. Grouping Interface
 35. List Specific Operation
+36. Set Specific Operation
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
