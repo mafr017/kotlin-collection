@@ -30,5 +30,6 @@
 28. Ordering
 29. Custom Ordering
 30. Reverse Ordering
+31. Random Ordering
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
