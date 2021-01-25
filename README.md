@@ -26,5 +26,6 @@
 24. Retrieve by Position
 25. Retrieve by Condition
 26. Retrieve by Random
+27. Checking Existence
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
