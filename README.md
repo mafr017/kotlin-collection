@@ -39,5 +39,6 @@
 37. Map Specific Operation
 38. Sequence
 39. Properties di Map
+40. Destructuring Declarations di Map
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
