@@ -38,5 +38,6 @@
 36. Set Specific Operation
 37. Map Specific Operation
 38. Sequence
+39. Properties di Map
 
 Referensi:  [Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
